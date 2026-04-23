@@ -1,0 +1,817 @@
+{
+  "qq_number": "3790593701",
+  "group_number": "1054359140",
+  "updated_at": "2026-04-23T15:52:37.960353",
+  "skins": [
+    {
+      "name": "拾月の花好月圆（小动效）",
+      "file": "拾月の花好月圆小动效.bdi",
+      "thumb": "拾月の花好月圆小动效.bdi_py_26_light_thumb.png",
+      "full": "拾月の花好月圆小动效.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の红缘相牵",
+      "file": "拾月の红缘相牵.bdi",
+      "thumb": "拾月の红缘相牵.bdi_py_26_light_thumb.png",
+      "full": "拾月の红缘相牵.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の青空手札",
+      "file": "拾月の青空手札.bdi",
+      "thumb": "拾月の青空手札.bdi_py_26_light_thumb.png",
+      "full": "拾月の青空手札.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の古风小生",
+      "file": "拾月の古风小生.bdi",
+      "thumb": "拾月の古风小生.bdi_py_26_light_thumb.png",
+      "full": "拾月の古风小生.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の简约韩漫",
+      "file": "拾月の简约韩漫.bdi",
+      "thumb": "拾月の简约韩漫.bdi_py_26_light_thumb.png",
+      "full": "拾月の简约韩漫.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の赤色魅影",
+      "file": "拾月の赤色魅影.bdi",
+      "thumb": "拾月の赤色魅影.bdi_py_26_light_thumb.png",
+      "full": "拾月の赤色魅影.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の人鱼陷落",
+      "file": "拾月の人鱼陷落.bdi",
+      "thumb": "拾月の人鱼陷落.bdi_py_26_light_thumb.png",
+      "full": "拾月の人鱼陷落.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包拾月の岁岁中秋",
+      "file": "拾月の岁岁中秋大动效脆脆音.bdi",
+      "thumb": "拾月の岁岁中秋大动效脆脆音.bdi_py_26_light_thumb.png",
+      "full": "拾月の岁岁中秋大动效脆脆音.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の夏日汽水",
+      "file": "拾月の夏日汽水.bdi",
+      "thumb": "拾月の夏日汽水.bdi_py_26_light_thumb.png",
+      "full": "拾月の夏日汽水.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の蓝焰骑士版本一",
+      "file": "拾月の蓝焰骑士版本一.bdi",
+      "thumb": "拾月の蓝焰骑士版本一.bdi_py_26_light_thumb.png",
+      "full": "拾月の蓝焰骑士版本一.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の桃花源记",
+      "file": "拾月の桃花源记.bdi",
+      "thumb": "拾月の桃花源记.bdi_py_26_light_thumb.png",
+      "full": "拾月の桃花源记.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の七夕来信",
+      "file": "拾月の七夕来信.bdi",
+      "thumb": "拾月の七夕来信.bdi_py_26_light_thumb.png",
+      "full": "拾月の七夕来信.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の青芜染露",
+      "file": "拾月の青芜染露.bdi",
+      "thumb": "拾月の青芜染露.bdi_py_26_light_thumb.png",
+      "full": "拾月の青芜染露.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の古早萌妹",
+      "file": "拾月の古早萌妹.bdi",
+      "thumb": "拾月の古早萌妹.bdi_py_26_light_thumb.png",
+      "full": "拾月の古早萌妹.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の花好月圆（大动效）",
+      "file": "拾月の花好月圆大动效.bdi",
+      "thumb": "拾月の花好月圆大动效.bdi_py_26_light_thumb.png",
+      "full": "拾月の花好月圆大动效.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の万圣小魔女「小动效」",
+      "file": "拾月の万圣小魔女小动效.bdi",
+      "thumb": "拾月の万圣小魔女小动效.bdi_py_26_light_thumb.png",
+      "full": "拾月の万圣小魔女小动效.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の七夕星夜",
+      "file": "拾月の七夕星夜.bdi",
+      "thumb": "拾月の七夕星夜.bdi_py_26_light_thumb.png",
+      "full": "拾月の七夕星夜.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の千禧辣妹(小动效)",
+      "file": "拾月の千禧辣妹小动效.bdi",
+      "thumb": "拾月の千禧辣妹小动效.bdi_py_26_light_thumb.png",
+      "full": "拾月の千禧辣妹小动效.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月のmimi娃娃机",
+      "file": "拾月のmimi娃娃机.bdi",
+      "thumb": "拾月のmimi娃娃机.bdi_py_26_light_thumb.png",
+      "full": "拾月のmimi娃娃机.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の千禧辣妹(无动效)",
+      "file": "拾月の千禧辣妹无动效.bdi",
+      "thumb": "拾月の千禧辣妹无动效.bdi_py_26_light_thumb.png",
+      "full": "拾月の千禧辣妹无动效.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の青提缀绿",
+      "file": "拾月の青提缀绿.bdi",
+      "thumb": "拾月の青提缀绿.bdi_py_26_light_thumb.png",
+      "full": "拾月の青提缀绿.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の暖雪寻欢(无动销)",
+      "file": "拾月の暖雪寻欢无动销.bdi",
+      "thumb": "拾月の暖雪寻欢无动销.bdi_py_26_light_thumb.png",
+      "full": "拾月の暖雪寻欢无动销.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の琉璃蓝梦",
+      "file": "拾月の琉璃蓝梦盲打版.bdi",
+      "thumb": "拾月の琉璃蓝梦盲打版.bdi_py_26_light_thumb.png",
+      "full": "拾月の琉璃蓝梦盲打版.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の七夕寄情",
+      "file": "拾月の七夕寄情.bdi",
+      "thumb": "拾月の七夕寄情.bdi_py_26_light_thumb.png",
+      "full": "拾月の七夕寄情.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の樱桃心事",
+      "file": "拾月の樱桃心事.bdi",
+      "thumb": "拾月の樱桃心事.bdi_py_26_light_thumb.png",
+      "full": "拾月の樱桃心事.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の蓝焰骑士版本二",
+      "file": "拾月の蓝焰骑士版本二.bdi",
+      "thumb": "拾月の蓝焰骑士版本二.bdi_py_26_light_thumb.png",
+      "full": "拾月の蓝焰骑士版本二.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の心动奶狗养成计划",
+      "file": "拾月の心动奶狗养成计划.bdi",
+      "thumb": "拾月の心动奶狗养成计划.bdi_py_26_light_thumb.png",
+      "full": "拾月の心动奶狗养成计划.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の寒梅映雪（闷闷版）",
+      "file": "拾月の寒梅映雪闷闷版.bdi",
+      "thumb": "拾月の寒梅映雪闷闷版.bdi_py_26_light_thumb.png",
+      "full": "拾月の寒梅映雪闷闷版.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の冬日旋律",
+      "file": "拾月の冬日旋律.bdi",
+      "thumb": "拾月の冬日旋律.bdi_py_26_light_thumb.png",
+      "full": "拾月の冬日旋律.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の寒梅映雪（脆脆版）",
+      "file": "拾月の寒梅映雪脆脆版.bdi",
+      "thumb": "拾月の寒梅映雪脆脆版.bdi_py_26_light_thumb.png",
+      "full": "拾月の寒梅映雪脆脆版.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の紫星抱软糖盲打版",
+      "file": "拾月の紫星抱软糖盲打版.bdi",
+      "thumb": "拾月の紫星抱软糖盲打版.bdi_py_26_light_thumb.png",
+      "full": "拾月の紫星抱软糖盲打版.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の王室叙事诗",
+      "file": "拾月の王室叙事诗.bdi",
+      "thumb": "拾月の王室叙事诗.bdi_py_26_light_thumb.png",
+      "full": "拾月の王室叙事诗.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の赤狐掠影",
+      "file": "拾月の赤狐掠影.bdi",
+      "thumb": "拾月の赤狐掠影.bdi_py_26_light_thumb.png",
+      "full": "拾月の赤狐掠影.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の岁岁中秋",
+      "file": "拾月の岁岁中秋小动效脆脆音.bdi",
+      "thumb": "拾月の岁岁中秋小动效脆脆音.bdi_py_26_light_thumb.png",
+      "full": "拾月の岁岁中秋小动效脆脆音.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の马卡龙小熊",
+      "file": "拾月の马卡龙小熊.bdi",
+      "thumb": "拾月の马卡龙小熊.bdi_py_26_light_thumb.png",
+      "full": "拾月の马卡龙小熊.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の山河志",
+      "file": "拾月の山河志.bdi",
+      "thumb": "拾月の山河志.bdi_py_26_light_thumb.png",
+      "full": "拾月の山河志.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の草莓蕾絲塔（大动效）",
+      "file": "拾月の草莓蕾絲塔大动效.bdi",
+      "thumb": "拾月の草莓蕾絲塔大动效.bdi_py_26_light_thumb.png",
+      "full": "拾月の草莓蕾絲塔大动效.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の青芜浸月",
+      "file": "拾月の青芜浸月.bdi",
+      "thumb": "拾月の青芜浸月.bdi_py_26_light_thumb.png",
+      "full": "拾月の青芜浸月.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の幻狸喵妖",
+      "file": "拾月の幻狸喵妖脆脆音.bdi",
+      "thumb": "拾月の幻狸喵妖脆脆音.bdi_py_26_light_thumb.png",
+      "full": "拾月の幻狸喵妖脆脆音.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の风华绝代",
+      "file": "拾月の风华绝代.bdi",
+      "thumb": "拾月の风华绝代.bdi_py_26_light_thumb.png",
+      "full": "拾月の风华绝代.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の鎏光神子",
+      "file": "拾月の鎏光神子.bdi",
+      "thumb": "拾月の鎏光神子.bdi_py_26_light_thumb.png",
+      "full": "拾月の鎏光神子.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の德萨罗人鱼",
+      "file": "拾月の德萨罗人鱼.bdi",
+      "thumb": "拾月の德萨罗人鱼.bdi_py_26_light_thumb.png",
+      "full": "拾月の德萨罗人鱼.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の查理苏",
+      "file": "拾月の查理苏.bdi",
+      "thumb": "拾月の查理苏.bdi_py_26_light_thumb.png",
+      "full": "拾月の查理苏.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の甜点卡比",
+      "file": "拾月の甜点卡比.bdi",
+      "thumb": "拾月の甜点卡比.bdi_py_26_light_thumb.png",
+      "full": "拾月の甜点卡比.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の黄绿映夏",
+      "file": "拾月の黄绿映夏.bdi",
+      "thumb": "拾月の黄绿映夏.bdi_py_26_light_thumb.png",
+      "full": "拾月の黄绿映夏.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の诗意游戏",
+      "file": "拾月の诗意游戏.bdi",
+      "thumb": "拾月の诗意游戏.bdi_py_26_light_thumb.png",
+      "full": "拾月の诗意游戏.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月のYes,My Lord",
+      "file": "拾月のYesMyLord.bdi",
+      "thumb": "拾月のYesMyLord.bdi_py_26_light_thumb.png",
+      "full": "拾月のYesMyLord.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の陆沉",
+      "file": "拾月の陆沉.bdi",
+      "thumb": "拾月の陆沉.bdi_py_26_light_thumb.png",
+      "full": "拾月の陆沉.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の夜光序曲",
+      "file": "拾月の夜光序曲.bdi",
+      "thumb": "拾月の夜光序曲.bdi_py_26_light_thumb.png",
+      "full": "拾月の夜光序曲.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の海盐来信",
+      "file": "拾月の海盐来信.bdi",
+      "thumb": "拾月の海盐来信.bdi_py_26_light_thumb.png",
+      "full": "拾月の海盐来信.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の琉璃蓝梦",
+      "file": "拾月の琉璃蓝梦字母版.bdi",
+      "thumb": "拾月の琉璃蓝梦字母版.bdi_py_26_light_thumb.png",
+      "full": "拾月の琉璃蓝梦字母版.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の粉笺寄月",
+      "file": "拾月の粉笺寄月.bdi",
+      "thumb": "拾月の粉笺寄月.bdi_py_26_light_thumb.png",
+      "full": "拾月の粉笺寄月.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の蔚蓝誓约",
+      "file": "拾月の蔚蓝誓约.bdi",
+      "thumb": "拾月の蔚蓝誓约.bdi_py_26_light_thumb.png",
+      "full": "拾月の蔚蓝誓约.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の幽灵之夜",
+      "file": "拾月の幽灵之夜.bdi",
+      "thumb": "拾月の幽灵之夜.bdi_py_26_light_thumb.png",
+      "full": "拾月の幽灵之夜.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の千禧辣妹(大动效)",
+      "file": "拾月の千禧辣妹大动效.bdi",
+      "thumb": "拾月の千禧辣妹大动效.bdi_py_26_light_thumb.png",
+      "full": "拾月の千禧辣妹大动效.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の幻狸喵妖",
+      "file": "拾月の幻狸喵妖闷闷音.bdi",
+      "thumb": "拾月の幻狸喵妖闷闷音.bdi_py_26_light_thumb.png",
+      "full": "拾月の幻狸喵妖闷闷音.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の军阀风云志",
+      "file": "拾月の军阀风云志.bdi",
+      "thumb": "拾月の军阀风云志.bdi_py_26_light_thumb.png",
+      "full": "拾月の军阀风云志.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の粉蓝兔语",
+      "file": "拾月の粉蓝兔语.bdi",
+      "thumb": "拾月の粉蓝兔语.bdi_py_26_light_thumb.png",
+      "full": "拾月の粉蓝兔语.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の岁岁中秋",
+      "file": "拾月の岁岁中秋大动效闷闷音.bdi",
+      "thumb": "拾月の岁岁中秋大动效闷闷音.bdi_py_26_light_thumb.png",
+      "full": "拾月の岁岁中秋大动效闷闷音.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の朝夕日常",
+      "file": "拾月の朝夕日常.bdi",
+      "thumb": "拾月の朝夕日常.bdi_py_26_light_thumb.png",
+      "full": "拾月の朝夕日常.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の草莓蕾絲塔（小动效）",
+      "file": "拾月の草莓蕾絲塔小动效.bdi",
+      "thumb": "拾月の草莓蕾絲塔小动效.bdi_py_26_light_thumb.png",
+      "full": "拾月の草莓蕾絲塔小动效.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の失乐园",
+      "file": "拾月の失乐园.bdi",
+      "thumb": "拾月の失乐园.bdi_py_26_light_thumb.png",
+      "full": "拾月の失乐园.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の新岁暴富",
+      "file": "拾月の新岁暴富.bdi",
+      "thumb": "拾月の新岁暴富.bdi_py_26_light_thumb.png",
+      "full": "拾月の新岁暴富.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の紫星抱软糖字母版",
+      "file": "拾月の紫星抱软糖字母版.bdi",
+      "thumb": "拾月の紫星抱软糖字母版.bdi_py_26_light_thumb.png",
+      "full": "拾月の紫星抱软糖字母版.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の岁岁中秋",
+      "file": "拾月の岁岁中秋小动效闷闷音.bdi",
+      "thumb": "拾月の岁岁中秋小动效闷闷音.bdi_py_26_light_thumb.png",
+      "full": "拾月の岁岁中秋小动效闷闷音.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の糖霜梦境",
+      "file": "拾月の糖霜梦境.bdi",
+      "thumb": "拾月の糖霜梦境.bdi_py_26_light_thumb.png",
+      "full": "拾月の糖霜梦境.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の万圣小魔女「大动效」",
+      "file": "拾月の万圣小魔女大动效.bdi",
+      "thumb": "拾月の万圣小魔女大动效.bdi_py_26_light_thumb.png",
+      "full": "拾月の万圣小魔女大动效.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の幻狸喵妖",
+      "file": "拾月の幻狸喵妖脆脆音.bds",
+      "thumb": "拾月の幻狸喵妖脆脆音.bds_py_26_light_thumb.png",
+      "full": "拾月の幻狸喵妖脆脆音.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の草莓蕾絲塔（大动效）",
+      "file": "拾月の草莓蕾絲塔大动效.bds",
+      "thumb": "拾月の草莓蕾絲塔大动效.bds_py_26_light_thumb.png",
+      "full": "拾月の草莓蕾絲塔大动效.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の赤狐掠影",
+      "file": "拾月の赤狐掠影.bds",
+      "thumb": "拾月の赤狐掠影.bds_py_26_light_thumb.png",
+      "full": "拾月の赤狐掠影.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の简约韩漫",
+      "file": "拾月の简约韩漫.bds",
+      "thumb": "拾月の简约韩漫.bds_py_26_light_thumb.png",
+      "full": "拾月の简约韩漫.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の人鱼陷落",
+      "file": "拾月の人鱼陷落.bds",
+      "thumb": "拾月の人鱼陷落.bds_py_26_light_thumb.png",
+      "full": "拾月の人鱼陷落.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の军阀风云志",
+      "file": "拾月の军阀风云志.bds",
+      "thumb": "拾月の军阀风云志.bds_py_26_light_thumb.png",
+      "full": "拾月の军阀风云志.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の幻狸喵妖",
+      "file": "拾月の幻狸喵妖闷闷音.bds",
+      "thumb": "拾月の幻狸喵妖闷闷音.bds_py_26_light_thumb.png",
+      "full": "拾月の幻狸喵妖闷闷音.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の草莓蕾絲塔（小动效）",
+      "file": "拾月の草莓蕾絲塔小动效.bds",
+      "thumb": "拾月の草莓蕾絲塔小动效.bds_py_26_light_thumb.png",
+      "full": "拾月の草莓蕾絲塔小动效.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の蓝焰骑士版本二",
+      "file": "拾月の蓝焰骑士版本二.bds",
+      "thumb": "拾月の蓝焰骑士版本二.bds_py_26_light_thumb.png",
+      "full": "拾月の蓝焰骑士版本二.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の赤色魅影",
+      "file": "拾月の赤色魅影.bds",
+      "thumb": "拾月の赤色魅影.bds_py_26_light_thumb.png",
+      "full": "拾月の赤色魅影.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の琉璃蓝梦",
+      "file": "拾月の琉璃蓝梦盲打版.bds",
+      "thumb": "拾月の琉璃蓝梦盲打版.bds_py_26_light_thumb.png",
+      "full": "拾月の琉璃蓝梦盲打版.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の寒梅映雪（脆脆版）",
+      "file": "拾月の寒梅映雪脆脆版.bds",
+      "thumb": "拾月の寒梅映雪脆脆版.bds_py_26_light_thumb.png",
+      "full": "拾月の寒梅映雪脆脆版.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の暖雪寻欢(无动销)",
+      "file": "拾月の暖雪寻欢无动销.bds",
+      "thumb": "拾月の暖雪寻欢无动销.bds_py_26_light_thumb.png",
+      "full": "拾月の暖雪寻欢无动销.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の岁岁中秋",
+      "file": "拾月の岁岁中秋大动效脆脆音.bds",
+      "thumb": "拾月の岁岁中秋大动效脆脆音.bds_py_26_light_thumb.png",
+      "full": "拾月の岁岁中秋大动效脆脆音.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の紫星抱软糖字母版",
+      "file": "拾月の紫星抱软糖字母版.bds",
+      "thumb": "拾月の紫星抱软糖字母版.bds_py_26_light_thumb.png",
+      "full": "拾月の紫星抱软糖字母版.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の夏日汽水",
+      "file": "拾月の夏日汽水.bds",
+      "thumb": "拾月の夏日汽水.bds_py_26_light_thumb.png",
+      "full": "拾月の夏日汽水.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の失乐园",
+      "file": "拾月の失乐园.bds",
+      "thumb": "拾月の失乐园.bds_py_26_light_thumb.png",
+      "full": "拾月の失乐园.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の红缘相牵",
+      "file": "拾月の红缘相牵.bds",
+      "thumb": "拾月の红缘相牵.bds_py_26_light_thumb.png",
+      "full": "拾月の红缘相牵.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の查理苏",
+      "file": "拾月の查理苏.bds",
+      "thumb": "拾月の查理苏.bds_py_26_light_thumb.png",
+      "full": "拾月の查理苏.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の草莓少女",
+      "file": "拾月の草莓少女.bds",
+      "thumb": "拾月の草莓少女.bds_py_26_light_thumb.png",
+      "full": "拾月の草莓少女.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の甜点卡比",
+      "file": "拾月の甜点卡比.bds",
+      "thumb": "拾月の甜点卡比.bds_py_26_light_thumb.png",
+      "full": "拾月の甜点卡比.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の千禧辣妹(无动效)",
+      "file": "拾月の千禧辣妹无动效.bds",
+      "thumb": "拾月の千禧辣妹无动效.bds_py_26_light_thumb.png",
+      "full": "拾月の千禧辣妹无动效.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の花好月圆（大动效）",
+      "file": "拾月の花好月圆大动效.bds",
+      "thumb": "拾月の花好月圆大动效.bds_py_26_light_thumb.png",
+      "full": "拾月の花好月圆大动效.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の千禧辣妹(大动效)",
+      "file": "拾月の千禧辣妹大动效.bds",
+      "thumb": "拾月の千禧辣妹大动效.bds_py_26_light_thumb.png",
+      "full": "拾月の千禧辣妹大动效.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の千禧辣妹(小动效)",
+      "file": "拾月の千禧辣妹小动效.bds",
+      "thumb": "拾月の千禧辣妹小动效.bds_py_26_light_thumb.png",
+      "full": "拾月の千禧辣妹小动效.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の青空手札",
+      "file": "拾月の青空手札.bds",
+      "thumb": "拾月の青空手札.bds_py_26_light_thumb.png",
+      "full": "拾月の青空手札.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の七夕寄情",
+      "file": "拾月の七夕寄情.bds",
+      "thumb": "拾月の七夕寄情.bds_py_26_light_thumb.png",
+      "full": "拾月の七夕寄情.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の万圣小魔女「大动效」",
+      "file": "拾月の万圣小魔女大动效.bds",
+      "thumb": "拾月の万圣小魔女大动效.bds_py_26_light_thumb.png",
+      "full": "拾月の万圣小魔女大动效.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の七夕来信",
+      "file": "拾月の七夕来信.bds",
+      "thumb": "拾月の七夕来信.bds_py_26_light_thumb.png",
+      "full": "拾月の七夕来信.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の万圣小魔女「小动效」",
+      "file": "拾月の万圣小魔女小动效.bds",
+      "thumb": "拾月の万圣小魔女小动效.bds_py_26_light_thumb.png",
+      "full": "拾月の万圣小魔女小动效.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の寒梅映雪（闷闷版）",
+      "file": "拾月の寒梅映雪闷闷版.bds",
+      "thumb": "拾月の寒梅映雪闷闷版.bds_py_26_light_thumb.png",
+      "full": "拾月の寒梅映雪闷闷版.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の黄绿映夏",
+      "file": "拾月の黄绿映夏.bds",
+      "thumb": "拾月の黄绿映夏.bds_py_26_light_thumb.png",
+      "full": "拾月の黄绿映夏.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の古风小生",
+      "file": "拾月の古风小生.bds",
+      "thumb": "拾月の古风小生.bds_py_26_light_thumb.png",
+      "full": "拾月の古风小生.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月のmimi娃娃机",
+      "file": "拾月のmimi娃娃机.bds",
+      "thumb": "拾月のmimi娃娃机.bds_py_26_light_thumb.png",
+      "full": "拾月のmimi娃娃机.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の琉璃蓝梦",
+      "file": "拾月の琉璃蓝梦字母版.bds",
+      "thumb": "拾月の琉璃蓝梦字母版.bds_py_26_light_thumb.png",
+      "full": "拾月の琉璃蓝梦字母版.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の鎏光神子",
+      "file": "拾月の鎏光神子.bds",
+      "thumb": "拾月の鎏光神子.bds_py_26_light_thumb.png",
+      "full": "拾月の鎏光神子.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の幽灵之夜",
+      "file": "拾月の幽灵之夜.bds",
+      "thumb": "拾月の幽灵之夜.bds_py_26_light_thumb.png",
+      "full": "拾月の幽灵之夜.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の岁岁中秋",
+      "file": "拾月の岁岁中秋小动效闷闷音.bds",
+      "thumb": "拾月の岁岁中秋小动效闷闷音.bds_py_26_light_thumb.png",
+      "full": "拾月の岁岁中秋小动效闷闷音.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の新岁暴富",
+      "file": "拾月の新岁暴富.bds",
+      "thumb": "拾月の新岁暴富.bds_py_26_light_thumb.png",
+      "full": "拾月の新岁暴富.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の青芜染露",
+      "file": "拾月の青芜染露.bds",
+      "thumb": "拾月の青芜染露.bds_py_26_light_thumb.png",
+      "full": "拾月の青芜染露.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の王室叙事诗",
+      "file": "拾月の王室叙事诗.bds",
+      "thumb": "拾月の王室叙事诗.bds_py_26_light_thumb.png",
+      "full": "拾月の王室叙事诗.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の粉笺寄月",
+      "file": "拾月の粉笺寄月.bds",
+      "thumb": "拾月の粉笺寄月.bds_py_26_light_thumb.png",
+      "full": "拾月の粉笺寄月.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の岁岁中秋",
+      "file": "拾月の岁岁中秋小动效脆脆音.bds",
+      "thumb": "拾月の岁岁中秋小动效脆脆音.bds_py_26_light_thumb.png",
+      "full": "拾月の岁岁中秋小动效脆脆音.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の古早萌妹",
+      "file": "拾月の古早萌妹.bds",
+      "thumb": "拾月の古早萌妹.bds_py_26_light_thumb.png",
+      "full": "拾月の古早萌妹.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の青提缀绿",
+      "file": "拾月の青提缀绿.bds",
+      "thumb": "拾月の青提缀绿.bds_py_26_light_thumb.png",
+      "full": "拾月の青提缀绿.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の蓝焰骑士版本一",
+      "file": "拾月の蓝焰骑士版本一.bds",
+      "thumb": "拾月の蓝焰骑士版本一.bds_py_26_light_thumb.png",
+      "full": "拾月の蓝焰骑士版本一.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の风华绝代",
+      "file": "拾月の风华绝代.bds",
+      "thumb": "拾月の风华绝代.bds_py_26_light_thumb.png",
+      "full": "拾月の风华绝代.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の夜光序曲",
+      "file": "拾月の夜光序曲.bds",
+      "thumb": "拾月の夜光序曲.bds_py_26_light_thumb.png",
+      "full": "拾月の夜光序曲.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の山河志",
+      "file": "拾月の山河志.bds",
+      "thumb": "拾月の山河志.bds_py_26_light_thumb.png",
+      "full": "拾月の山河志.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の心动奶狗养成计划",
+      "file": "拾月の心动奶狗养成计划.bds",
+      "thumb": "拾月の心动奶狗养成计划.bds_py_26_light_thumb.png",
+      "full": "拾月の心动奶狗养成计划.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の花好月圆（小动效）",
+      "file": "拾月の花好月圆小动效.bds",
+      "thumb": "拾月の花好月圆小动效.bds_py_26_light_thumb.png",
+      "full": "拾月の花好月圆小动效.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の马卡龙小熊",
+      "file": "拾月の马卡龙小熊.bds",
+      "thumb": "拾月の马卡龙小熊.bds_py_26_light_thumb.png",
+      "full": "拾月の马卡龙小熊.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の德萨罗人鱼",
+      "file": "拾月の德萨罗人鱼.bds",
+      "thumb": "拾月の德萨罗人鱼.bds_py_26_light_thumb.png",
+      "full": "拾月の德萨罗人鱼.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の粉蓝兔语",
+      "file": "拾月の粉蓝兔语.bds",
+      "thumb": "拾月の粉蓝兔语.bds_py_26_light_thumb.png",
+      "full": "拾月の粉蓝兔语.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の岁岁中秋",
+      "file": "拾月の岁岁中秋大动效闷闷音.bds",
+      "thumb": "拾月の岁岁中秋大动效闷闷音.bds_py_26_light_thumb.png",
+      "full": "拾月の岁岁中秋大动效闷闷音.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の糖霜梦境",
+      "file": "拾月の糖霜梦境.bds",
+      "thumb": "拾月の糖霜梦境.bds_py_26_light_thumb.png",
+      "full": "拾月の糖霜梦境.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の七夕星夜",
+      "file": "拾月の七夕星夜.bds",
+      "thumb": "拾月の七夕星夜.bds_py_26_light_thumb.png",
+      "full": "拾月の七夕星夜.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の樱桃心事",
+      "file": "拾月の樱桃心事.bds",
+      "thumb": "拾月の樱桃心事.bds_py_26_light_thumb.png",
+      "full": "拾月の樱桃心事.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月のYes,My Lord",
+      "file": "拾月のYesMyLord.bds",
+      "thumb": "拾月のYesMyLord.bds_py_26_light_thumb.png",
+      "full": "拾月のYesMyLord.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の朝夕日常",
+      "file": "拾月の朝夕日常.bds",
+      "thumb": "拾月の朝夕日常.bds_py_26_light_thumb.png",
+      "full": "拾月の朝夕日常.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の蔚蓝誓约",
+      "file": "拾月の蔚蓝誓约.bds",
+      "thumb": "拾月の蔚蓝誓约.bds_py_26_light_thumb.png",
+      "full": "拾月の蔚蓝誓约.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の桃花源记",
+      "file": "拾月の桃花源记.bds",
+      "thumb": "拾月の桃花源记.bds_py_26_light_thumb.png",
+      "full": "拾月の桃花源记.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の冬日旋律",
+      "file": "拾月の冬日旋律.bds",
+      "thumb": "拾月の冬日旋律.bds_py_26_light_thumb.png",
+      "full": "拾月の冬日旋律.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の古早名柯",
+      "file": "拾月の古早名柯.bds",
+      "thumb": "拾月の古早名柯.bds_py_26_light_thumb.png",
+      "full": "拾月の古早名柯.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の青芜浸月",
+      "file": "拾月の青芜浸月.bds",
+      "thumb": "拾月の青芜浸月.bds_py_26_light_thumb.png",
+      "full": "拾月の青芜浸月.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の诗意游戏",
+      "file": "拾月の诗意游戏.bds",
+      "thumb": "拾月の诗意游戏.bds_py_26_light_thumb.png",
+      "full": "拾月の诗意游戏.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の紫星抱软糖盲打版",
+      "file": "拾月の紫星抱软糖盲打版.bds",
+      "thumb": "拾月の紫星抱软糖盲打版.bds_py_26_light_thumb.png",
+      "full": "拾月の紫星抱软糖盲打版.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の陆沉",
+      "file": "拾月の陆沉.bds",
+      "thumb": "拾月の陆沉.bds_py_26_light_thumb.png",
+      "full": "拾月の陆沉.bds_py_26_light.png"
+    }
+  ]
+}

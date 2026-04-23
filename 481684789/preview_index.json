@@ -1,0 +1,55 @@
+{
+  "qq_number": "3790593701",
+  "group_number": "481684789",
+  "updated_at": "2026-04-23T15:52:39.054653",
+  "skins": [
+    {
+      "name": "拾月の古早名柯",
+      "file": "拾月の古早名柯.bdi",
+      "thumb": "拾月の古早名柯.bdi_py_26_light_thumb.png",
+      "full": "拾月の古早名柯.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の夏彦",
+      "file": "拾月の夏彦.bdi",
+      "thumb": "拾月の夏彦.bdi_py_26_light_thumb.png",
+      "full": "拾月の夏彦.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月のYes,My Lord",
+      "file": "拾月のYesMyLord.bdi",
+      "thumb": "拾月のYesMyLord.bdi_py_26_light_thumb.png",
+      "full": "拾月のYesMyLord.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の亚梦",
+      "file": "拾月の亚梦.bdi",
+      "thumb": "拾月の亚梦.bdi_py_26_light_thumb.png",
+      "full": "拾月の亚梦.bdi_py_26_light.png"
+    },
+    {
+      "name": "拾月の夏彦",
+      "file": "拾月の夏彦.bds",
+      "thumb": "拾月の夏彦.bds_py_26_light_thumb.png",
+      "full": "拾月の夏彦.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の亚梦",
+      "file": "拾月の亚梦.bds",
+      "thumb": "拾月の亚梦.bds_py_26_light_thumb.png",
+      "full": "拾月の亚梦.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月のYes,My Lord",
+      "file": "拾月のYesMyLord.bds",
+      "thumb": "拾月のYesMyLord.bds_py_26_light_thumb.png",
+      "full": "拾月のYesMyLord.bds_py_26_light.png"
+    },
+    {
+      "name": "拾月の古早名柯",
+      "file": "拾月の古早名柯.bds",
+      "thumb": "拾月の古早名柯.bds_py_26_light_thumb.png",
+      "full": "拾月の古早名柯.bds_py_26_light.png"
+    }
+  ]
+}
