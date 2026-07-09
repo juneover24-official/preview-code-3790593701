@@ -1,7 +1,7 @@
 {
   "qq_number": "3790593701",
   "group_number": "1077717416",
-  "updated_at": "2026-06-10T11:57:49+00:00",
+  "updated_at": "2026-07-09T08:21:49+00:00",
   "skins": [
     {
       "name": "拾月の陆景和",
@@ -14,6 +14,12 @@
       "file": "拾月の陌上花开.bds",
       "thumb": "拾月の陌上花开.bds_py_26_light_thumb.png",
       "full": "拾月の陌上花开.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "拾月の予伊玫瑰",
+      "file": "拾月の予伊玫瑰.bds",
+      "thumb": "拾月の予伊玫瑰.bds_py_26_light_thumb.png",
+      "full": "拾月の予伊玫瑰.bds_py_26_light_thumb.png"
     }
   ]
 }
