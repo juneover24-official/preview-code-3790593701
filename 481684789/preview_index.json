@@ -1,7 +1,7 @@
 {
   "qq_number": "3790593701",
   "group_number": "481684789",
-  "updated_at": "2026-07-26T06:32:35+00:00",
+  "updated_at": "2026-07-31T05:06:42+00:00",
   "skins": [
     {
       "name": "拾月の古早名柯",
@@ -56,6 +56,12 @@
       "file": "拾月の周深.bds",
       "thumb": "拾月の周深.bds_py_26_light_thumb.png",
       "full": "拾月の周深.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "拾月の赵丽颖",
+      "file": "拾月の赵丽颖.bdi",
+      "thumb": "拾月の赵丽颖.bdi_py_26_light_thumb.png",
+      "full": "拾月の赵丽颖.bdi_py_26_light_thumb.png"
     }
   ]
 }
